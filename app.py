@@ -15,3 +15,10 @@ with st.sidebar:
     ''')
     add_vertical_space(5)
     st.write('Made with ❤️ by [Prompt Engineer](https://youtube.com/@engineerprompt)')
+
+
+def main():
+    st.header("Chat with PDF 💬")
+
+    if __name__ == '__main__':
+        main()
